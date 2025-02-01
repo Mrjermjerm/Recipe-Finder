@@ -19,7 +19,7 @@ def get_recipes_by_ingredients(api_key, ingredients):
         return []
 
 def input_ingredients_for_recipes():
-    api_key = "68e165a776fc4d5c92d8c3850cfd72f8"  # Replace with your key 
+    api_key = "_________________"  # Replace with your key 
 
     while True:
         ingredients = input("Enter ingredients separated by commas (or type 'exit' to quit): ").strip()
