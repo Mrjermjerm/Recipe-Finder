@@ -82,7 +82,7 @@ def create_random_password():
 # Sends password to users phone
 def message():
     def send_pushbullet(message):
-        access_token = "o.oWkZ3rjqFbmGhKC3eFD9osA8WxlrzHJW"
+        access_token = "_____________"
         pb = Pushbullet(access_token)
 
         # Send a notification
